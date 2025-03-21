@@ -28,5 +28,3 @@ This course focuses on:
 
 ---
 
-## **🚀 How to Use This Repo**  
-1. Clone the reposito
